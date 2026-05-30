@@ -37,26 +37,25 @@ MAX_JOBS_PER_RUN  = 15     # حداکثر آگهی ارسالی در هر اجر
 
 # ─── کلمات جستجو ──────────────────────────────────────────────────────────────
 SEARCH_QUERIES = [
-    "Junior SEO remote",
-    "Technical SEO remote",
-    "SEO Content Editor remote",
-    "SEO Python remote",
-    "WordPress SEO Specialist remote",
+    "SEO Specialist",
+    "Technical SEO Manager remote",
+    "SEO Data Analyst remote",
+    "Senior Technical SEO onsite relocation package",
+    "SEO Python Technical SEO remote",
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
 BLACKLIST_KEYWORDS = [
-    "us residents only",
-    "must reside in us",
-    "must be located in the us",
-    "must be based in",
-    "senior",
-    "director",
-    "agency",
-    "full stack",
-    "fullstack",
+    "US residents only",
+    "must reside in US",
+    "unpaid",
+    "volunteer",
+    "internship",
+    "commission only",
+    "multi-level marketing",
+    "must be based in"
+    "no relocation"
 ]
-
 # ══════════════════════════════════════════════════════════════════════════════
 # حافظه دائمی — seen_jobs.txt
 # ══════════════════════════════════════════════════════════════════════════════
